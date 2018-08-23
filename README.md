@@ -10,3 +10,13 @@ ll
 * list
 * ~Strong~
 * `background`
+
+```Java
+System.Out.print("helloworld!");
+
+```
+
+```Javascript
+console.log("helloworld!");
+alert(120);
+```
